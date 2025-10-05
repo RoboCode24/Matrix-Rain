@@ -1,0 +1,14 @@
+{
+  "name": "Matrix Rain",
+  "version": "1.0.0",
+  "description": "A fullscreen Matrix rain app in Red Bull F1 Blue",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Salman Hussein",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^30.0.0"
+  }
+}
